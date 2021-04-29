@@ -3,7 +3,7 @@ A cpu scheduling simulation for FCFS and Round Robin
 
 # How to use it
 
-Run the command "javac"  to compile the code and then " java CPUScheduler <filepath> <time quantum> " <br/>
+Run the command <javac>  to compile the code and then < java CPUScheduler <filepath> <time quantum> > <br/>
   
 "<filepath>" : the .txt file containing the information of all your process ID, arrivial time, and burst time <br/>
 "<time quantum>" : the time quantum used for round robin <br/>
